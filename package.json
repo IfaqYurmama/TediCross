@@ -7,12 +7,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "discord.js": "^11.3.0",
+    "discord.js": "^11.3.2",
     "js-yaml": "^3.11.0",
     "lodash": "^4.17.5",
-    "mime": "^2.2.0",
-    "moment": "^2.21.0",
-    "simple-markdown": "^0.3.2",
+    "mime": "^2.3.1",
+    "moment": "^2.22.1",
+    "simple-markdown": "^0.3.3",
     "teleapiwrapper": "^2.3.1"
   },
   "devDependencies": {
